@@ -2,6 +2,8 @@
 
 To use the code follow given step :-
 
+* clone the repositry `git clone https://github.com/ravising-h/Face_Classification.git`
+
 * `!pip install git+https://github.com/rcmalli/keras-vggface.git` install this library.
 
 * Keep all the Images of people in faces folder and save them by respective name. For example `Ravi.jpg`. (There should be no one else in the frame and photo should be properly clicked.)
