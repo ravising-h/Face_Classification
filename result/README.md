@@ -1,1 +1,1 @@
-### Result will be storeed here.
+### Result will be stored here.
